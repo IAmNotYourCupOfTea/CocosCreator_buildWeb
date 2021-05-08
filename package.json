@@ -1,0 +1,25 @@
+{
+  "name": "build-web",
+  "version": "1.0.0",
+  "description": "1. web项目构建\r 2. css js文件压缩",
+  "main": "index.js",
+  "dependencies": {
+    "clean-css": "^5.1.2",
+    "fs-extra": "^10.0.0",
+    "uglify-js": "^3.13.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmNotYourCupOfTea/CocosCreator_buildWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAmNotYourCupOfTea/CocosCreator_buildWeb/issues"
+  },
+  "homepage": "https://github.com/IAmNotYourCupOfTea/CocosCreator_buildWeb#readme"
+}
